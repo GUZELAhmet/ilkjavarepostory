@@ -16,4 +16,10 @@ kullanırız
 not git log --online commitlerde  tüm versiyonları gösterir
 not githubı öğreniyorum ben varya
  */
+
+
+    public static void main(String[] args) {
+        System.out.println("branch deneme 1 ");
+        System.out.println("master deneme 1 ");
+    }
 }
