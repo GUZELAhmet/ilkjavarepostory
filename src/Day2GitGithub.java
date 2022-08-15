@@ -14,6 +14,6 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
 not git log --online commitlerde  tüm versiyonları gösterir
-not githubı öğreniyorum
+not githubı öğreniyorum ben varya
  */
 }
